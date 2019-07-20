@@ -1,3 +1,10 @@
+###
+Hello World!!
+
+This is my first React project learned from online course. Its main function includes calling api of news API to fecth news article data and display on the front end.
+
+Ava
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
